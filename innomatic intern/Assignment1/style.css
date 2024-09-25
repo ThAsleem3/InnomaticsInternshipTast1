@@ -1,0 +1,35 @@
+
+table{
+   background-color: black;
+    width:800px;
+    font-size:20px;
+    text-align: center;
+    padding:3px;
+   margin: 20px;
+}
+.head{
+   background-color: yellow;
+   width:50px;
+   height:80px;
+   font-size: larger;
+   size:50px;
+}
+
+.data{
+    background-color:white;
+    padding: 15px;
+    text-align: center;
+    padding:20px;
+    
+}
+.firstrow{
+    background-color: lightgrey;
+    padding:10px;
+}
+.home{
+    background-color:pink;
+    width: 300px;
+    font-size:xx-large;
+    margin: 50px;
+    text-align: center;
+}
